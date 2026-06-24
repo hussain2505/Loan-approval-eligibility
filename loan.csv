@@ -1,0 +1,6 @@
+Gender,Married,Income,LoanAmount,Credit_History,Education,Loan_Status
+Male,Yes,50000,200000,1,Graduate,Approved
+Female,No,30000,100000,1,Graduate,Approved
+Male,Yes,25000,150000,0,Not Graduate,Rejected
+Female,No,40000,120000,1,Graduate,Approved
+Male,Yes,20000,180000,0,Not Graduate,Rejected
